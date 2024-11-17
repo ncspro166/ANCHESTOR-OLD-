@@ -23,7 +23,7 @@
     "whiteListIds": ["7361745510525903","100072881080249","61563625146088"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " PRINCES ❤️",
+  "nickNameBot": "deno 💕",
   "prefix": "-",
   "database": {
     "type": "sqlite",
