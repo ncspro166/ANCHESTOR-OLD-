@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "ncspro260@gmail.com",
-    "password": "prince12ke",
+    "email": "dogoprince03@gmail.com",
+    "password": "prince1240ke",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -23,7 +23,7 @@
     "whiteListIds": ["7361745510525903","100072881080249","61563625146088"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "messenger bot💚",
+  "nickNameBot": "princes 🩵",
   "prefix": "-",
   "database": {
     "type": "sqlite",
